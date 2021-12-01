@@ -1,3 +1,3 @@
 # git-collaboration-flow
 
-This is a comment about JavaScript.
+I enjoy JavaScript because it utilizes both functional programming and object-oriented programming.
